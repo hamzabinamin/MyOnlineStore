@@ -1,0 +1,51 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333;
+	line-height: 1.5em;
+}
+
+a:link {
+	color: #03F;
+}
+a:visited {
+	color: #03F;
+}
+a:hover {
+	color: #000;
+}
+a:active {
+	color: #03F;
+}
+a {
+	font-size: 14px;
+}
+body {
+	background-color: #FFF;
+}
+#pageHeader{
+	border: #999 1px solid;
+	border-bottom::none;
+	color:#F00;
+	background-color:#F4F4F4;
+	width:900px;
+			
+}
+
+#pageContent{
+	border: #999 1px solid;
+	border-bottom::none;
+	color:#090;	
+	background-color:#F4F4F4;
+	width:900px;
+	
+}
+
+#pageFooter{
+	border: #999 1px solid;
+	border-bottom::none;
+	color:#F0F;
+	background-color:#F4F4F4;
+	width:900px; 
+	
+}
